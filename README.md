@@ -9,6 +9,10 @@ Welcome to the *ID Card Maker and Displayer* project! This application allows us
 - *Responsive Design:* Works seamlessly on all devices, ensuring your ID card looks great everywhere.
 - *Real-time Preview:* See a live preview of your ID card as you type.
 
+## 📸 Sample Pic
+
+![Screenshot 2024-08-27 085309](https://github.com/user-attachments/assets/b629f4ee-580f-4410-8c21-f0a807c28127)
+
 ## 🧰 Technologies Used
 
 - *React.js* - A JavaScript library for building user interfaces.
